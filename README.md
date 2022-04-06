@@ -1,4 +1,4 @@
-### Hi there 👋
+<center><img src="img/rawr.gif" width="500" /></center>
 
 <!--
 **feilen/feilen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
